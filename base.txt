@@ -1,1 +1,1 @@
-url="http://dxplay.rf.gd/dx_play.db?i=1"
+url="https://archive.org/download/dx_play/dx_play.db"
