@@ -1,1 +1,1 @@
-url="https://github.com/DX-BR/dxplay/blob/main/dx_play.db?raw=true"
+url="http://dxplay.rf.gd/dx_play.db"
